@@ -8,7 +8,7 @@ Cloud Foundry is an open source PaaS which provides a layer of abstraction on to
 
 In addition, Cloud Foundry offers out of the box support for many different languages, frameworks, technologies, and services, along with the flexibility to be extended to support custom runtimes and services.
 
-->![alt text](images/overview.jpg)<-
+![alt text](images/overview.jpg)
 
 ### Why Cloud Foundry?
 
@@ -18,7 +18,7 @@ In application centric deployments, applications are deployed on a PaaS. You can
 
 Cloud Foundry shifts the focus of deployment from VM centric to application centric.
 
-->![alt text](images/why-cloud-foundry.jpg)<-
+![alt text](images/why-cloud-foundry.jpg)
 
 For more details on open source Cloud Foundry, refer to the [online documentation](http://docs.cloundfoundry.org).
 
