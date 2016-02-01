@@ -15,7 +15,7 @@
 1. Install [Spring Tool Suite](http://spring.io/tools/sts)
 
 2. Install Cloud Foundry Integration with STS    
-    a. Within STS, go to `Help > Install New Software` and search for "Cloud Foundry". Install these required packages. Note that the install process may take a bit of time, and STS will need to be restarted for the changes to take effect.
+    * Within STS, go to `Help > Install New Software` and search for "Cloud Foundry". Install these required packages. Note that the install process may take a bit of time, and STS will need to be restarted for the changes to take effect.
     
 3. Import projects into STS
     * Install samples and partially-completed projects into your workspace. Run the following command in your Mac OS X Terminal:
